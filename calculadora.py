@@ -1,2 +1,2 @@
-def suma(a,b):
-  return a+b
+def multiplicacion3(a,b,-d):
+return a*b*-d
